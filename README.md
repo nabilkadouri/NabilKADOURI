@@ -8,29 +8,27 @@
 
 ## 🚀 **Projets**
 
-### 🌐 [Site de Service de Blanchisserie](https://github.com/NabilKADOURI/sf-cleanDressing)
-Un site dynamique pour un service de pressing combinant :
-- **Frontend** : Angular
-- **Backend** : Symfony avec services RESTful
-- **Fonctionnalités** : Gestion des utilisateurs, design responsive
-
-### 🎭 [Lamarlonance](https://github.com/NabilKADOURI/lamarlonance)
-Site vitrine pour un chorégraphe :
-- **Technologies** : PHP
-- **Fonctionnalités** : Gestion dynamique des contenus
-
 ### 🌟 [Portfolio](https://nk-dev.fr/)
 Mon site personnel mettant en avant mes projets et mon parcours professionnel :
 - **Frontend** : TailwindCSS, Angular
-- **Backend** : PHP
 
+### 🌐 [Clean dressing](https://clean-dressing.nk-dev.fr)
+Un site dynamique pour un service de pressing combinant :
+- **Frontend** : Angular, Bootstrap
+- **Backend** : Symfony avec services RESTful
+- **Fonctionnalités** : Gestion des utilisateurs, design responsive
+
+### 🎭 [Lamarlonance](https://lamarlonance.nk-dev.fr)
+Site vitrine pour un chorégraphe :
+- **Technologies** : PHP , TailwindCSS
+- **Fonctionnalités** : Gestion dynamique des contenus, design responsive
 ---
 
 ## 🔧 **Compétences**
 
 ### **Développement Frontend**
 - 🌟 **Angular**
-- 🎨 **TailwindCSS**
+- 🎨 **TailwindCSS, Bootsrap**
 - 🌐 **HTML5, CSS3, JavaScript**
 
 ### **Développement Backend**
