@@ -1,21 +1,100 @@
-<h1 align="center">Hi 👋, I'm Nabil KADOURI</h1>
-<h3 align="center">Aspiring Web Developer in Career Transition</h3>
+# 👋 Bonjour, je suis Nabil KADOURI
 
-- 🔭 I’m currently working on [Laundry Service Site](https://github.com/NabilKADOURI)
+## 🧑‍💻 **Développeur Web en Transition de Carrière**
 
-- 👨‍💻 All of my projects are available at [https://nk-dev.fr/](https://nk-dev.fr/)
+🌟 Passionné par les technologies web modernes, je crée des solutions innovantes qui allient créativité et expertise technique. Mon parcours en coaching et gestion d'événements me confère une approche unique, combinant leadership, communication et compétences techniques.
 
-- 💬 Ask me about **Football coaching, sports, web development, career transition**
+---
 
-- 📫 How to reach me **kadourinabil7@gmail.com**
+## 🚀 **Projets**
 
-- ⚡ Fun fact **I am a football coach with 12 years of experience and a passion for sports like swimming and cycling**
+### 🌐 [Site de Service de Blanchisserie](https://github.com/NabilKADOURI/sf-cleanDressing)
+Un site dynamique pour un service de pressing combinant :
+- **Frontend** : Angular
+- **Backend** : Symfony avec services RESTful
+- **Fonctionnalités** : Gestion des utilisateurs, design responsive
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nabil-kadouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabil-kadouri/" height="30" width="40" /></a>
-</p>
+### 🎭 [Lamarlonance](https://github.com/NabilKADOURI/lamarlonance)
+Site vitrine pour un chorégraphe :
+- **Technologies** : PHP
+- **Fonctionnalités** : Gestion dynamique des contenus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌟 [Portfolio](https://nk-dev.fr/)
+Mon site personnel mettant en avant mes projets et mon parcours professionnel :
+- **Frontend** : TailwindCSS, Angular
+- **Backend** : PHP
 
+---
+
+## 🔧 **Compétences**
+
+### **Développement Frontend**
+- 🌟 **Angular**
+- 🎨 **TailwindCSS**
+- 🌐 **HTML5, CSS3, JavaScript**
+
+### **Développement Backend**
+- 🐘 **PHP, Symfony**
+- 🛢️ **MySQL, MariaDB**
+
+### **Outils**
+- 🐳 **Docker**
+- 🧪 **Postman**
+- 🎨 **Figma**
+- 🔧 **Git**
+
+---
+
+## 🌟 **Soft Skills**
+
+- 🤝 Collaboration en équipe
+- 🕒 Gestion du temps
+- 🌱 Adaptabilité et apprentissage continu
+
+---
+
+## 🛠️ **Points Techniques Forts**
+
+### 🧩 Design Composantisé
+```html
+<section class="project-section">
+  <div *ngFor="let projet of projets">
+    <h3>{{ projet.title }}</h3>
+    <p>{{ projet.description }}</p>
+    <a [href]="projet.github" target="_blank">Voir projet</a>
+  </div>
+</section>
+```
+
+### 🌟 Carrousel des Hard Skills (CSS)
+```css
+.carousel {
+  display: flex;
+  transition: transform 0.7s ease-in-out;
+}
+.carousel-item {
+  flex-shrink: 0;
+  width: 100%;
+}
+```
+
+---
+
+## 📩 **Contactez-moi**
+
+🌐 [LinkedIn](https://www.linkedin.com/in/nabil-kadouri/)  
+🐙 [GitHub](https://github.com/NabilKADOURI)  
+📧 [Email](mailto:kadourinabil7@gmail.com)  
+
+---
+
+## ⚡ **Anecdote**
+
+👟 Avec plus de 12 ans d'expérience en coaching de football, j'apporte un esprit d'équipe et une stratégie à chaque défi. Passionné par la natation, le vélo et le sport en général, j'applique cette discipline à mes projets de développement.
+
+---
+
+## 📈 **Objectifs**
+- Obtenir une certification **Concepteur Développeur d'Application** (Niveau 6)
+- Créer des applications web centrées sur l'utilisateur et percutantes
+- Continuer à évoluer dans mon parcours d'apprentissage et de croissance professionnelle
