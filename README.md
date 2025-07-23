@@ -55,7 +55,7 @@ Site vitrine dynamique pour un chorégraphe, réalisé avec des outils PHP.
 - **Technologies** : PHP, TailwindCSS
 - **Points Clés** : Gestion de contenu dynamique, design responsive.
 
-### ⚡ **[Electricity Business]([** ](https://github.com/nabilkadouri/sb-electricity-business)(Projet de Formation Actuel)
+### ⚡ [Electricity Business](https://github.com/nabilkadouri/sb-electricity-business)(Projet de Formation Actuel)
 Dans le cadre de ma formation "Concepteur Développeur d'Application", je travaille actuellement sur ce projet . Il s'agit d'une plateforme web mettant en relation des propriétaires de bornes de recharge pour véhicules électriques et des particuliers.
 - **Technologies** : Angular (Frontend) / Spring Boot (Backend)
 - **Objectif** : Développer une solution fullstack complète et fonctionnelle, de la base de données à l'interface utilisateur.
