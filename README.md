@@ -15,9 +15,9 @@ Mon parcours m'a appris l'importance de la persévérance et de l'adaptabilité.
 ## 💻 **Mes Outils & Technologies**
 
 ### **Développement Fullstack**
-- **Frontend** : **Angular (mon framework de prédilection)**, HTML5, CSS3, JavaScript, TypeScript, TailwindCSS, Bootstrap
-- **Backend** : **Java (avec Spring Boot pour des API RESTful)**, PHP (Symfony)
-- **Bases de Données** : MySQL, MariaDB, Exploration de PostgreSQL et MongoDB (NoSQL)
+- **Frontend** : **Angular, React**, HTML5, CSS3, JavaScript, TypeScript, TailwindCSS, Bootstrap
+- **Backend** : **Java (Spring Boot), Python (Django)**, PHP (Symfony)
+- **Bases de Données** : MySQL, MariaDB, PostgreSQL et MongoDB (NoSQL)
 
 ### **Sécurité & Qualité**
 - Familiarisé avec les concepts d'authentification et d'autorisation (JWT, OAuth2)
@@ -47,7 +47,7 @@ Un site collaboratif pour un courtier en prêt immobilier, présentant ses servi
 ### 🌐 [Clean Dressing](https://clean-dressing.nk-dev.fr)
 Application web complète pour un service de pressing, actuellement en phase de migration et d'amélioration continue.
 - **Frontend** : Angular, Bootstrap
-- **Backend** : **Spring Boot (API RESTful sécurisée, en cours de développement)**, Symfony (première version)
+- **Backend** : **Spring Boot (API RESTful sécurisée, en cours de développement), Symfony **
 - **Fonctionnalités** : Gestion des utilisateurs, gestion des commandes et créneaux horaires, intégration de services de géolocalisation et de calcul de distance, authentification JWT.
 
 ### 🎭 [Lamarlonance](https://lamarlonance.nk-dev.fr)
